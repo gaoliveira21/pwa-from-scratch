@@ -1,0 +1,7 @@
+{
+  "name": "Codepad Masters, the best PWA in town",
+  "short_name": "Codepad",
+  "start_url": "./",
+  "orientation": "portrait",
+  "theme_color": "#ffc252"
+}
